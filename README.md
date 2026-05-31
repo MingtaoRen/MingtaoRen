@@ -1,128 +1,90 @@
-### Hi, I'm Adrian 👋
-
-Linux / 云原生方向在学，专注于分布式存储、容器编排与可观测性体系。
-正在系统打磨 Kubernetes、Ceph、ELFK 全链路的工程实践能力。
-
-📝 技术博客：[komorebi.xxx.com](https://your-blog-url)
-📮 联系我：your-email@example.com
-
----
-
-### 🛠️ 技术栈
-
-**操作系统与基础设施**
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
-
-**容器与编排**
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Harbor](https://img.shields.io/badge/-Harbor-60B932?style=flat&logo=harbor&logoColor=white)
-
-**存储与数据**
-![Ceph](https://img.shields.io/badge/-Ceph-EF5C55?style=flat&logo=ceph&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
-
-**可观测性与中间件**
-![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
-
----
-
-### 🚀 近期在做
-
-- 🔭 系统化整理 Ceph 分布式存储部署与运维实战（cephadm、RGW、CephFS、CRUSH 调优）
-- 🌱 深入 Kubernetes 多层负载均衡架构与 Service Mesh 实践
-- 📊 打磨 Prometheus + Grafana + Alertmanager 监控告警体系
-- ✍️ 在博客持续输出技术学习笔记与踩坑记录
-
----
-
-### 📌 精选项目
-
-🔹 **[k8s-multi-tier-lb](#)** — Kubernetes 多层负载均衡架构实战
-  ReplicationController + Service + Namespace 实现的多层应用调度，含完整架构图与配置说明
-
-🔹 **[ceph-cluster-ops](#)** — Ceph 分布式存储集群部署与运维笔记
-  覆盖 cephadm 部署、RGW S3/HTTPS 配置、OSD 扩容、CRUSH 规则、RBD/CephFS 实操与故障排查
-
-🔹 **[elfk-log-platform](#)** — ELFK + Kafka 日志收集分析平台
-  Filebeat → Kafka → Logstash → Elasticsearch → Kibana 全链路，含 grok/GeoIP 富化与 Kibana 可视化
-
-🔹 **[devops-interview-notes](#)** — DevOps 面试知识体系
-  Prometheus、Nginx、Ceph、MySQL、Docker、Kubernetes 等核心知识点结构化整理
-
----
-
-### 📈 GitHub 数据
-
-![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=MingtaoRen&show_icons=true&theme=default&hide_border=true)
-
-
-# Hi there 👋, I'm Adrian
+# Hi there 👋, I'm Adrian / Mingtao Ren
 
 ## About Me
 
-- 🌍 Based in China
-- 👨‍💻 Linux / Cloud-Native Engineer in training
-- 😀 Interested in container orchestration, distributed storage, observability, and SRE practices
-- 📚 Studying at OldBoy Education (老男孩教育), focusing on Linux & DevOps
-- 📝 Blog: [komorebi.xxx.com](https://your-blog-url)
+* 🌍 I'm based in China
+* 🎓 I graduated with a degree in Computer Science and Technology
+* 🛠️ I'm interested in Linux operations, cloud computing, DevOps, Kubernetes, monitoring and automation
+* 🚀 I'm currently building practical projects around CI/CD, container deployment, monitoring, backup and infrastructure automation
+* 🎯 Career direction: Cloud Computing / Linux Operations / DevOps Engineering
 
 ## GitHub Stats
 
-### Top Languages (Public Repos)
+### Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&hide_title=true&langs_count=5&hide_progress=true&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MingtaoRen\&hide_title=true\&langs_count=6\&hide_progress=true\&theme=transparent)
+
+### GitHub Overview
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MingtaoRen\&show_icons=true\&theme=transparent\&hide_title=true)
 
 ## Skills
 
-### Operating Systems & Scripting
+### Operating Systems and Scripting
 
-![Skills](https://skillicons.dev/icons?i=linux,bash,vim,git)
+![Operating Systems and Scripting](https://skillicons.dev/icons?i=linux,bash,powershell,python)
 
-### Web Servers & Middleware
+### Cloud Native and DevOps
 
-![Skills](https://skillicons.dev/icons?i=nginx,apache,redis,mysql,mongodb)
+![Cloud Native and DevOps](https://skillicons.dev/icons?i=docker,kubernetes,nginx,jenkins,githubactions,git,github)
 
-### Containers & Cloud Native
+### Monitoring and Database
 
-![Skills](https://skillicons.dev/icons?i=docker,kubernetes)
+![Monitoring and Database](https://skillicons.dev/icons?i=prometheus,grafana,mysql,redis)
 
-### Monitoring & Logging
+### Programming Languages
 
-![Skills](https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch,kibana,kafka)
+![Programming Languages](https://skillicons.dev/icons?i=java,go,python,js)
 
-### Automation & CI/CD
+### Web Development Basics
 
-![Skills](https://skillicons.dev/icons?i=ansible,jenkins,gitlab)
+![Web Development Basics](https://skillicons.dev/icons?i=html,css,nodejs)
 
-### Cloud Platforms
+## Featured Projects
 
-![Skills](https://skillicons.dev/icons?i=aws)
+### DevOps and Cloud Native
 
-## Currently Working On
+| Project                                                                                              | Description                                                        | Tech Stack                  |
+| ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | --------------------------- |
+| [docker-jenkins-k8s-cicd-demo](https://github.com/MingtaoRen/docker-jenkins-k8s-cicd-demo)           | A CI/CD practice project using Docker, Jenkins and Kubernetes.     | Docker, Jenkins, Kubernetes |
+| [k8s-nginx-ingress-lab](https://github.com/MingtaoRen/k8s-nginx-ingress-lab)                         | A Kubernetes Ingress lab for service exposure and request routing. | Kubernetes, Nginx Ingress   |
+| [prometheus-grafana-monitoring-lab](https://github.com/MingtaoRen/prometheus-grafana-monitoring-lab) | A monitoring practice project based on Prometheus and Grafana.     | Prometheus, Grafana         |
+| [harbor-image-retention-helper](https://github.com/MingtaoRen/harbor-image-retention-helper)         | A helper tool for Harbor image cleanup and registry maintenance.   | Harbor, Shell, Docker       |
 
-- 🔭 Building hands-on labs for Ceph distributed storage (cephadm, RGW, CephFS, CRUSH tuning)
-- 🌱 Deep-diving into Kubernetes multi-tier load balancing architecture
-- 📊 Refining Prometheus + Grafana + Alertmanager observability stacks
-- ✍️ Publishing technical notes and troubleshooting logs on my blog
+### Linux Operations and Automation
 
-## Pinned Projects
+| Project                                                                                    | Description                                                                        | Tech Stack     |
+| ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- | -------------- |
+| [linux-ops-toolkit](https://github.com/MingtaoRen/linux-ops-toolkit)                       | A collection of Linux operation scripts for daily maintenance and troubleshooting. | Linux, Bash    |
+| [ansible-server-init](https://github.com/MingtaoRen/ansible-server-init)                   | Server initialization automation using Ansible playbooks.                          | Ansible, Linux |
+| [mysql-backup-restore-toolkit](https://github.com/MingtaoRen/mysql-backup-restore-toolkit) | MySQL backup and restore toolkit with practical operation notes.                   | MySQL, Bash    |
 
-🔹 **k8s-multi-tier-lb** — Kubernetes Multi-Tier Load Balancing
-ReplicationController + Service + Namespace architecture with full diagrams & manifests
+## Current Focus
 
-🔹 **ceph-cluster-ops** — Ceph Distributed Storage Lab
-cephadm deployment, RGW S3/HTTPS, OSD scaling, CRUSH rules, RBD/CephFS practice
+* Kubernetes deployment, Service, Ingress and troubleshooting
+* Docker image building and containerized deployment
+* Jenkins / GitHub Actions based CI/CD pipelines
+* Prometheus and Grafana monitoring dashboards
+* Linux system inspection and shell automation
+* MySQL backup, restore and disaster recovery practice
+* Writing clear architecture documents and operation manuals
 
-🔹 **elfk-log-platform** — ELFK + Kafka Log Pipeline
-Filebeat → Kafka → Logstash → Elasticsearch → Kibana, with grok/GeoIP enrichment
+## Learning Roadmap
 
-🔹 **devops-interview-notes** — Structured DevOps Interview Notes
-Prometheus, Nginx, Ceph, MySQL, Docker, Kubernetes — organized for quick reference
+* Linux system administration
+* Kubernetes operations
+* Cloud computing fundamentals
+* CI/CD pipeline design
+* Monitoring and alerting
+* Infrastructure automation
+* AI-assisted development and troubleshooting
+
+## Contact
+
+* GitHub: [MingtaoRen](https://github.com/MingtaoRen)
+* Email: [3398939635@qq.com](mailto:3398939635@qq.com)
+
+---
+
+> Keep learning, keep building, keep documenting.
+
