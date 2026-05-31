@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Adrian / Mingtao Ren
+# Hi there 👋, I'm Adrian
 
 ## About Me
 
