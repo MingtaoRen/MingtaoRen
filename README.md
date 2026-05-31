@@ -40,25 +40,6 @@
 
 ![Web Development Basics](https://skillicons.dev/icons?i=html,css,nodejs)
 
-## Featured Projects
-
-### DevOps and Cloud Native
-
-| Project                                                                                              | Description                                                        | Tech Stack                  |
-| ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | --------------------------- |
-| [docker-jenkins-k8s-cicd-demo](https://github.com/MingtaoRen/docker-jenkins-k8s-cicd-demo)           | A CI/CD practice project using Docker, Jenkins and Kubernetes.     | Docker, Jenkins, Kubernetes |
-| [k8s-nginx-ingress-lab](https://github.com/MingtaoRen/k8s-nginx-ingress-lab)                         | A Kubernetes Ingress lab for service exposure and request routing. | Kubernetes, Nginx Ingress   |
-| [prometheus-grafana-monitoring-lab](https://github.com/MingtaoRen/prometheus-grafana-monitoring-lab) | A monitoring practice project based on Prometheus and Grafana.     | Prometheus, Grafana         |
-| [harbor-image-retention-helper](https://github.com/MingtaoRen/harbor-image-retention-helper)         | A helper tool for Harbor image cleanup and registry maintenance.   | Harbor, Shell, Docker       |
-
-### Linux Operations and Automation
-
-| Project                                                                                    | Description                                                                        | Tech Stack     |
-| ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- | -------------- |
-| [linux-ops-toolkit](https://github.com/MingtaoRen/linux-ops-toolkit)                       | A collection of Linux operation scripts for daily maintenance and troubleshooting. | Linux, Bash    |
-| [ansible-server-init](https://github.com/MingtaoRen/ansible-server-init)                   | Server initialization automation using Ansible playbooks.                          | Ansible, Linux |
-| [mysql-backup-restore-toolkit](https://github.com/MingtaoRen/mysql-backup-restore-toolkit) | MySQL backup and restore toolkit with practical operation notes.                   | MySQL, Bash    |
-
 ## Current Focus
 
 * Kubernetes deployment, Service, Ingress and troubleshooting
@@ -82,7 +63,6 @@
 ## Contact
 
 * GitHub: [MingtaoRen](https://github.com/MingtaoRen)
-* Email: [3398939635@qq.com](mailto:3398939635@qq.com)
 
 ---
 
