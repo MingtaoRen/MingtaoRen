@@ -8,16 +8,6 @@
 * 🚀 I'm currently building practical projects around CI/CD, container deployment, monitoring, backup and infrastructure automation
 * 🎯 Career direction: Cloud Computing / Linux Operations / DevOps Engineering
 
-## GitHub Stats
-
-### Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MingtaoRen\&hide_title=true\&langs_count=6\&hide_progress=true\&theme=transparent)
-
-### GitHub Overview
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MingtaoRen\&show_icons=true\&theme=transparent\&hide_title=true)
-
 ## Skills
 
 ### Operating Systems and Scripting
